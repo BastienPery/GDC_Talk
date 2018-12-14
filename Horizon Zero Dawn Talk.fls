@@ -243,6 +243,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0700.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT Horizon Zero Dawn Talk.aux
 INPUT ./Horizon Zero Dawn Talk.out
 INPUT ./Horizon Zero Dawn Talk.out

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1544791744 "/home/bastien/Documents/Graz/Game/Lecture/Horizon Zero Dawn Talk.tex" "Horizon Zero Dawn Talk.pdf" "Horizon Zero Dawn Talk" 1544791745
+["pdflatex"] 1544797519 "/home/bastien/Documents/Graz/Game/Lecture/Horizon Zero Dawn Talk.tex" "Horizon Zero Dawn Talk.pdf" "Horizon Zero Dawn Talk" 1544797519
   "/etc/texmf/web2c/texmf.cnf" 1537312874 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/bastien/Documents/Graz/Game/Lecture/Horizon Zero Dawn Talk.tex" 1544791744 8248 2640a2bb385a8244cc29ab110630f1d7 ""
+  "/home/bastien/Documents/Graz/Game/Lecture/Horizon Zero Dawn Talk.tex" 1544797518 8706 6cefec7095867c06d7f0eca9c48395b2 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1000.tfm" 1480098696 3072 e6fe53b666f9cbd66cb135c6fdea66d3 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1480098696 3584 1a7de6c99457381c64abc1a7c545505f ""
@@ -139,6 +139,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1480098837 325 2bcd023400636339210573e2b3ee298b ""
   "/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty" 1480098841 17384 7b57db249380913af74b205c3d410376 ""
   "/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty" 1480098841 10214 d03d065f799d54f6b7e9b175f8d84279 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def" 1480098842 8033 ee5a06eead35a732222f876800c8f10f ""
   "/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def" 1480098842 1375 8a855db83af5d6753ccbbd32e6a8a901 ""
   "/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty" 1480098842 27982 5723d81d568db410592a59b85fb3eaae ""
   "/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def" 1480098842 22368 c53c9d0d16c65bef2b157515c9d9f658 ""
@@ -161,9 +162,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1537313700 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1539520670 4126822 2c85c1aab106293464fe7d3eb8db9109 ""
-  "Horizon Zero Dawn Talk.aux" 1544791745 1697 8f8e2bfbb7a575c8023804cf68dcc7b7 ""
-  "Horizon Zero Dawn Talk.out" 1544791745 598 95838f7934dd4c787982136b889457a5 ""
-  "Horizon Zero Dawn Talk.tex" 1544791744 8248 2640a2bb385a8244cc29ab110630f1d7 ""
+  "Horizon Zero Dawn Talk.aux" 1544797519 1750 278eeeef35a4d2c42eca67d68edbbb0d ""
+  "Horizon Zero Dawn Talk.out" 1544797519 634 2533cab987c535c103d2ceecafeb7bb8 ""
+  "Horizon Zero Dawn Talk.tex" 1544797518 8706 6cefec7095867c06d7f0eca9c48395b2 ""
   "Horizon.jpg" 1544787475 145985 4dc3bdd97aecc625a188732632c3761b ""
   (generated)
   "Horizon Zero Dawn Talk.log"
